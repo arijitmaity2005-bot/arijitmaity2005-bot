@@ -15,14 +15,26 @@ My journey in BCA has led me to develop a passion for cybersecurity, and I am no
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Lab|
+| Agent Deployment                              | SOC Lab|
 | Incident Response Planning and Execution      | SOC Lab|
-| Case Management with TheHive                  | SOC Lab|
-| Scripting and Automation for Threat Mitigation | SOC Lab|
+| File Integrity Monitoring                     | SOC Lab|
+| Writing Custom detection Rules                | SOC Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+- Wazuh Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- VMware Workstation Pro
+- Ubuntu Server
+- Ubuntu Linux
+- Windows 10 Pro
+- Wazuh Agents
+- Sysmon
+- Wazuh Dashboard
+- Custom Wazuh Detection Rules
+- File Integrity Monitoring (FIM)
+- Wazuh Active Response
+- Linux/Windows Firewall
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Telemetry generation tools to create realistic network traffic and attack scenarios.
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
